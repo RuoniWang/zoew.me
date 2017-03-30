@@ -1,7 +1,6 @@
 h1{
   color:pink;
   background-color:seashell;
-  text-shadow: 3px 2px salmon;
   text-aligh: center;
   font-family: "Time New Roman", Times, serif;
 }
@@ -9,4 +8,4 @@ h1{
 p{
   color: black;
   font-family: sans-serif;
-}
+} 
