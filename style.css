@@ -4,8 +4,14 @@ h1{
   text-aligh: center;
   font-family: "Time New Roman", Times, serif;
 }
+h2{
+  color:pink;
+  background-color:seashell;
+  text-aligh: center;
+  font-family: "Time New Roman", Times, serif;
+}
 
 p{
   color: black;
   font-family: sans-serif;
-} 
+}
