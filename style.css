@@ -1,0 +1,12 @@
+h1{
+  color:pink;
+  background-color:seashell;
+  text-shadow: 3px 2px salmon;
+  text-aligh: center;
+  font-family: "Timex New Roman", Times, serif;
+}
+
+p{
+  color: black;
+  font-family: sans-serif;
+}
