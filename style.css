@@ -1,33 +1,61 @@
-h1{
-  color:pink;
-  background-color:seashell;
-  text-aligh: center;
-  font-family: "Time New Roman", Times, serif;
+
+body{
+  margin:20px;
+  padding:0;
 }
-h2{
-  color:pink;
-  background-color:seashell;
+.header{
+  display: flex;
+  justify-content: flex-start;
+  background-color:light grey;
+  margin-bottom:20px;
+}
+
+h1{
+  color:grey;
   text-aligh: center;
-  font-family: "Time New Roman", Times, serif;
+  font-family: "Dosis";
+  vertical-align: 5vh;
 }
 
 p{
   color: black;
-  font-family: sans-serif;
+  font-family: "Dosis";
+  margin:20px;
+  font-size:20px;
+  color:grey;
+}
+.caption{
+  font-size:12px;
+  text-align:right;
+  margin:0;
+  margin-right:10px;
+  margin-bottom:5px;
 }
 
+.profile{
+  width:80px;
+  height:80px;
+  border-radius:50%;
+  margin-left:20px;
+  margin-right:20px;
+  margin-top:10px;
+  margin-bottom:10px;
+  box-shadow:0 0 5px 0 grey;
+}
 .lake{
   width:400px;
   height:260px;
+  margin:10px;
   object-fit: cover;
 }
 
-.header{
-  display: flex;
+
+.hometown{
+  display:flex;
   justify-content: space-around;
 }
 
-.hometown{
+.hometown-img{
   display:flex;
   flex-direction: column;
   justify-content: space-around;
